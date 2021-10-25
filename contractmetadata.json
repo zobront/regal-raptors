@@ -1,0 +1,8 @@
+{
+  "name": "Regal Raptor Rescue Club",
+  "description": "Regal Raptors are a collection of Ethereum NFTs created by multiple artists with 100% of proceeds going to raptor conservation (hawk, falcon, eagle, and owl). Each image is a Founding Member token redeemable for in-person raptor experiences coming 2022-2024.",
+  "image": "ipfs://QmS8YrUPB14q8MBhK8oYmwXQ2DUA9sheRDca52oWrsdGcB/FalconMeinardus.jpg",
+  "external_link": "http://www.regalraptor.io/",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xe95823D9CC4e88328688da15445b68775E9bf92c"
+}
